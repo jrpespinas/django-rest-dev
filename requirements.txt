@@ -3,3 +3,4 @@ djangorestframework
 black
 pylint
 pylint-django
+drf_spectacular
